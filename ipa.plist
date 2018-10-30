@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.okoxy.beihai</string><!--修改这里-->
+                     <string>io.dcloud.uniapp.aima</string><!--修改这里-->
                      <key>bundle-version</key>
-                    <string>0.0.1</string><!--修改这里-->
+                    <string>1.0.0</string><!--修改这里-->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>哦靠炫衣</string><!--修改这里-->
+                    <string>uniappam</string><!--修改这里-->
                 </dict>
             </dict>
         </array>
