@@ -16,7 +16,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>io.dcloud.UNI78C54DE</string><!--修改这里-->
+                     <string>com.wongwong.am</string><!--修改这里-->
                      <key>bundle-version</key>
                     <string>1.0.0</string><!--修改这里-->
                     <key>kind</key>
