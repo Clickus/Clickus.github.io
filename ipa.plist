@@ -10,19 +10,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://clickus.github.io/am.ipa</string><!--修改这里-->
+                        <string>https://clickus.github.io/xzzn.ipa</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.wongwong.am</string><!--修改这里-->
+                     <string>com..wy-tek.am</string><!--修改这里-->
                      <key>bundle-version</key>
                     <string>1.0.0</string><!--修改这里-->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>爱玛</string><!--修改这里-->
+                    <string>迅踪</string><!--修改这里-->
                 </dict>
             </dict>
         </array>
